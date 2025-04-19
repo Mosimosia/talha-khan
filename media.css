@@ -1,14 +1,14 @@
 @media (max-width:1029px) {
  
-    .hero-image-wrapper {
+     .hero-image-wrapper {
       position: relative;
       width: 200px;
       height: 200px;
       margin-top: 87px;
       top: 24rem;
       left: -43rem;
-    }
-      .rotated-box {
+    } 
+       .rotated-box {
         width: 200px;
         height: 200px;
         background: var(--green);
@@ -20,7 +20,7 @@
         align-items: center;
         top: -26rem;
         left: 37rem;
-      }
+      } 
       .border-out {
         border: 4px solid var(--yellow);
         width: 96rem;
@@ -30,8 +30,8 @@
         margin: -8px -1px 47px -21px;
         border-right: hidden;
         border-bottom: hidden;
-      }
-      .hire-badge {
+      } 
+       .hire-badge {
         position: absolute;
         right: 47px;
         top: -55px;
@@ -60,7 +60,7 @@
         animation: effect 8s linear infinite;
         text-transform: capitalize;
         transform: translate(-50%, -50%);
-    }
+    } 
     }
     @media (max-width: 1024px) {
 
